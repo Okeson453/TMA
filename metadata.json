@@ -1,0 +1,7 @@
+{
+  "name": "Telegram Mini App Multi-Account Proxy",
+  "description": "Multi-Account Embedded Reverse Proxy & BFF for Telegram Mini Apps with cookie vault isolation, header sanitization, and profile management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
